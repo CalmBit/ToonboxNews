@@ -1,0 +1,6 @@
+img/20150804/index.png
+img/20150804/events.png
+img/20150804/talk_one.png
+img/20150804/talk_two.png
+img/20150804/resistance.png
+img/20150804/ask.png
